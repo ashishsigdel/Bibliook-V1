@@ -33,7 +33,7 @@
 </div>
 
 <p align="center" style="line-height: 1; margin-top: 10px;" >
-  <a href="Bibliook.apk"><b>Download Android App</b>🤖</a>
+  <a href="https://play.google.com/store/apps/details?id=com.ashishsigdel.bibliook"><b>Download Android App</b>🤖</a>
 </p>
 
 ## 1. Introduction
