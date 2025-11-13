@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center" style="border-radius: 8px;">
- <img width="287" height="89" alt="Bibliook" src="https://github.com/user-attachments/assets/0d814b48-4af4-4311-ba01-3c472d6dc774" style="border-radius: 8px;" />
+ <img width="287" height="auto" alt="Bibliook" src="https://github.com/user-attachments/assets/810535c6-bf42-4913-8b27-233b1b539458" style="border-radius: 8px;" />
 </div>
 
 <div align="center" style="line-height: 1;">
